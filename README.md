@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mathieu, a full-stack french developer 🗼</div>  
+### <div align="center">I'm Mathieu, a full-stack french developer  🇫🇷 🗼</div>  
   
 
 - 🌱 I’m currently learning AWS and Docker  
