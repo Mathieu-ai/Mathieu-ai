@@ -143,7 +143,7 @@
   <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31aebbea5y5aq7b65v2fp54aee2y)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aebbea5y5aq7b65v2fp54aee2y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31aebbea5y5aq7b65v2fp54aee2y&redirect=true)
 
 <div align="left">
   <a href="https://fr.linkedin.com/in/mathieu-li%C3%A8vre-a26a1b200" target="_blank">
