@@ -1,32 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mathieu-AI</h1>
-<h3 align="center"> Developer • Tech Enthusiast</h3>
-
-<br/>
+<h1 align="center">Hi there 👋, I'm Mathieu-AI</h1>
+<h3 align="center">Developer • Tech Enthusiast</h3>
 
 ---
 
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=lalalievre&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Profile 2" width="300" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=lalalievre&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
 </p>
-
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathieu-ai&show_icons=true&theme=dracula" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathieu-ai&show_icons=true&theme=dracula&count_private=true" alt="Mathieu-ai's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathieu-ai&layout=compact&theme=react&langs_count=5&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathieu-ai&layout=compact&theme=react&langs_count=5&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+### 💻 My Tech Stack
 
-### 🧠 Languages & Frameworks
+#### 🧠 Languages & Frameworks
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" alt="TypeScript" />
@@ -36,7 +33,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="40" alt="Sass" />
 </p>
 
-### ⚙️ Frontend Frameworks
+#### ⚙️ Frontend
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React" />
   <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="40" alt="Vue.js" />
@@ -46,7 +43,7 @@
   <img src="https://imgs.search.brave.com/K2HN7P20B-ZmKAV1YxrYKcpk2TC6ldVFWhLi7OMClDM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92aXRl/LmRldi9sb2dvLnN2/Zw" height="40" alt="Vite" />
 </p>
 
-### 🛠 Backend & Server
+#### 🛠 Backend & Databases
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
   <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="40" alt="Express.js" />
@@ -55,18 +52,18 @@
   <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" height="40" alt="Prisma" />
 </p>
 
-### 🧰 Dev Tools & Platforms
+#### 🧰 Dev Tools & Platforms
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" alt="Git" />
   <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="40" alt="GitLab" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="40" alt="Docker" />
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="Tailwind" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="Tailwind CSS" />
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" alt="Bootstrap" />
   <img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="40" alt="MUI" />
 </p>
 
-### 🎨 Creative & Design
+#### 🎨 Creative & Design
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="40" alt="Figma" />
   <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" height="40" alt="Photoshop" />
@@ -80,17 +77,17 @@
 
 ---
 
-## 📦 NPM Modules I Created
+### 📦 NPM Modules I Created
 
-### **[generic‑functions.mlai](https://github.com/Mathieu-ai/generic-functions)**
-A lightweight, utility library with handy functions and props.
+- **[generic‑functions.mlai](https://github.com/Mathieu-ai/generic-functions)**
+  A lightweight utility library with handy functions and props.
 
-### **[excel‑to‑json.mlai](https://github.com/Mathieu-ai/excel-to-json)**
-A module to convert Excel files into JSON.
+- **[excel‑to‑json.mlai](https://github.com/Mathieu-ai/excel-to-json)**
+  A module to convert Excel files into JSON.
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 My GitHub Contribution Snake
 
 <p align="center">
   <picture>
@@ -109,5 +106,3 @@ A module to convert Excel files into JSON.
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </p>
-
----
