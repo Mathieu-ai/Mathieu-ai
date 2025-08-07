@@ -8,10 +8,9 @@
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313pkgdn4qwq7aqnmmxcwedfokqu&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313pkgdn4qwq7aqnmmxcwedfokqu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=lalalievre&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Profile 2" width="300" />
 </p>
+
 
 ---
 
