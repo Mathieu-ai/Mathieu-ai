@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mathieu-AI</h1>
-<h3 align="center">Creative Developer • Tech Enthusiast</h3>
+<h3 align="center"> Developer • Tech Enthusiast</h3>
 
 <br/>
 
