@@ -1,108 +1,97 @@
-<h1 align="center">Hi there 👋, I'm Mathieu-AI</h1>
-<h3 align="center">Developer • Tech Enthusiast</h3>
+<div align="center" style="background-color: #0A0A0A; padding: 20px; border-radius: 10px;">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header&text=Mathieu%20Lièvre&fontSize=32&fontColor=0A0A0A&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Tech%20Enthusiast%20&descAlignY=65&descSize=16" width="100%" />
+
+  <br/><br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/mathieu-li%C3%A8vre-a26a1b200)
+  [![npm](https://img.shields.io/badge/npm-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~mathieu-ai)
+  [![GitHub](https://img.shields.io/badge/GitHub-Mathieu--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mathieu-ai)
+
+  <br/>
 
 ---
+## 🎧 Now Playing on Spotify
 
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=lalalievre&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathieu-ai&show_icons=true&theme=dracula&count_private=true" alt="Mathieu-ai's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathieu-ai&layout=compact&theme=react&langs_count=5&hide_border=false" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://open.spotify.com/user/lalalievre">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=lalalievre&cover_image=true&theme=default&show_offline=true&background_color=0A0A0A&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" width="300" />
+  </a>
+</div>
 
 ---
+## 📊 GitHub Statistics
 
-### 💻 My Tech Stack
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mathieu-ai&theme=github_dark" height="120" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathieu-ai&theme=github_dark" height="120" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mathieu-ai&theme=github_dark" height="120" alt="Top Languages by Commit" />
+</div>
 
-#### 🧠 Languages & Frameworks
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" alt="Python" />
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="CSS3" />
-  <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="40" alt="Sass" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathieu-ai&theme=github_dark" width="100%" height="200" alt="Profile Details" />
+</div>
 
-#### ⚙️ Frontend
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React" />
-  <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="40" alt="Vue.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="40" alt="Next.js" />
-  <img src="https://nuxt.com/assets/design-kit/icon-green.svg" height="40" alt="Nuxt.js" />
-  <img src="https://logodix.com/logo/1974423.png" height="40" alt="npm" />
-  <img src="https://imgs.search.brave.com/K2HN7P20B-ZmKAV1YxrYKcpk2TC6ldVFWhLi7OMClDM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92aXRl/LmRldi9sb2dvLnN2/Zw" height="40" alt="Vite" />
-</p>
-
-#### 🛠 Backend & Databases
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="40" alt="Express.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" height="40" alt="NestJS" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" height="40" alt="Prisma" />
-</p>
-
-#### 🧰 Dev Tools & Platforms
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" alt="Git" />
-  <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="40" alt="GitLab" />
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="40" alt="Docker" />
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" alt="Bootstrap" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="40" alt="MUI" />
-</p>
-
-#### 🎨 Creative & Design
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="40" alt="Figma" />
-  <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" height="40" alt="Photoshop" />
-  <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" height="40" alt="Illustrator" />
-  <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" height="40" alt="XD" />
-  <img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" height="40" alt="InDesign" />
-  <img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" height="40" alt="Premiere Pro" />
-  <img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" height="40" alt="After Effects" />
-  <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" height="40" alt="Blender" />
-</p>
+<div align="center">
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Mathieu-ai&theme=%7B%22backgroundColor%22%3A%22%23030303%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23ffffff%22%2C%22borderColor%22%3A%22%23000000%22%2C%22waterColor%22%3A%22%23ffffff%22%2C%22streakColor%22%3A%22%23ffffff%22%7D" width="400" alt="GitHub Streak" />
+</div>
 
 ---
+## 🛠️ Tech Stack
 
-### 📦 NPM Modules I Created
+<div align="center">
 
-- **[generic‑functions.mlai](https://github.com/Mathieu-ai/generic-functions)**
-  A lightweight utility library with handy functions and props.
+### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sass&perline=8" alt="Languages" />
 
-- **[excel‑to‑json.mlai](https://github.com/Mathieu-ai/excel-to-json)**
-  A module to convert Excel files into JSON.
+### ⚙️ Frontend
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,vite,tailwind,bootstrap&perline=8" alt="Frontend" />
+
+### 🛠 Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,prisma,postgres&perline=7" alt="Backend" />
+
+### 🧰 Dev Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,gitlab,docker,linux,figma,vscode&perline=7" alt="Tools" />
+
+### 🎨 Creative & Design
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender&perline=7" alt="Creative" />
+
+</div>
 
 ---
+## 📦 NPM Packages
 
-### 🐍 My GitHub Contribution Snake
+<div align="center">
 
-<p align="center">
+| Package                          | Description                                              | Install Command                    |
+|:---------------------------------|:---------------------------------------------------------|:-----------------------------------|
+| [**generic-functions.mlai**](https://github.com/Mathieu-ai/generic-functions) | Lightweight utility library with useful functions       | `npm i generic-functions.mlai`     |
+| [**excel-to-json.mlai**](https://github.com/Mathieu-ai/excel-to-json)         | Convert Excel files to clean JSON structures            | `npm i excel-to-json.mlai`         |
+
+</div>
+
+---
+## 🐍 Contribution Snake
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-</p>
+</div>
 
 ---
+## 📫 Let's Connect
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://fr.linkedin.com/in/mathieu-li%C3%A8vre-a26a1b200" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+<div align="center">
+  <a href="https://fr.linkedin.com/in/mathieu-li%C3%A8vre-a26a1b200">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=80&section=footer" width="100%" />
+
+</div>
