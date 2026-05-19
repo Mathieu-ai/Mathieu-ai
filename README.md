@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Mathieu-ai&theme=%7B%22backgroundColor%22%3A%22%23030303%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23ffffff%22%2C%22borderColor%22%3A%22%23000000%22%2C%22waterColor%22%3A%22%23ffffff%22%2C%22streakColor%22%3A%22%23ffffff%22%7D" width="400" alt="GitHub Streak" />
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Mathieu-ai&theme=%7B%22backgroundColor%22%3A%22%23030303%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23ffffff%22%2C%22borderColor%22%3A%22%23000000%22%2C%22waterColor%22%3A%22%23ffffff%22%2C%22streakColor%22%3A%22%23ffffff%22%7D&t=111" width="400" alt="GitHub Streak" />
 </div>
 
 ---
